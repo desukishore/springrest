@@ -1,6 +1,7 @@
 # springrest
 
 http://localhost:8080/springrest/customers			-- Produces xml format of data
+
 http://localhost:8080/springrest/customers.json		-- Produces json format of data
 
 
